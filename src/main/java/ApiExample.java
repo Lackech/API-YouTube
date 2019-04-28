@@ -26,9 +26,9 @@ public class ApiExample {
     // You need to set this value for your code to compile.
     // For example: ... DEVELOPER_KEY = "YOUR ACTUAL KEY";
     //Ale
-    //private static final String DEVELOPER_KEY = "AIzaSyClBd5fEsIL5trWIPjt9fFJs-JWIxWp49w";
+    //private static final String DEVELOPER_KEY = "YOUR API KEY";
     //Ale Secundaria
-    private static final String DEVELOPER_KEY = "AIzaSyCObRJQq8-cTHd3DaBWPrnzPR_GLU1x-co";
+    private static final String DEVELOPER_KEY = "YOUR API KEY";
 
     private static final String APPLICATION_NAME = "API code samples";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
